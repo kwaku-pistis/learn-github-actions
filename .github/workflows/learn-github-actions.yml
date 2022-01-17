@@ -20,3 +20,5 @@ jobs:
           # github-token: # optional
           # The message to prepend the review suggestion
           message: This is a test
+  # environment: # optional which determines the environment the job runs on
+  # defaults: # set default values for the job 
